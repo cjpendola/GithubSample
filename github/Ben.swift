@@ -1,5 +1,5 @@
 //
-//  Deniz.swift
+//  Ben.swift
 //  github
 //
 //  Created by Deniz Tutuncu on 3/6/19.
@@ -8,10 +8,6 @@
 
 import Foundation
 
-
-struct Deniz {
-    
+struct Ben {
     let skill: String
-    let goal: String
-    let life: Int
 }
